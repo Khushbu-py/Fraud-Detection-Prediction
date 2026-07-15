@@ -1,4 +1,7 @@
 # Fraud-Detection-Prediction
 Fraud Detection Prediction Using ML
 <br>
-Author - Khushbu
+Author - Khushbu Singh
+
+
+ 
